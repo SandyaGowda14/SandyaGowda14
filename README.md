@@ -1,6 +1,10 @@
 # 👋 Hey there, I'm Sandya!
 
+2nd Year CSE Student
+
 ## 🚀 Tech Stack
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
