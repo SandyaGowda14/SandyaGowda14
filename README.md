@@ -19,7 +19,7 @@
 
 I'm constantly learning new skills, building projects, and exploring open-source.  
 Current focus:
-- 🧠 Data Structures & Algorithms (C++)
+- 🧠 Data Structures & Algorithms (C++,python)
 - ⚛️ React.js and modern frontend dev
 - 🌐 Git, GitHub, Web APIs
 
