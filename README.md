@@ -27,7 +27,9 @@ Current focus:
  
 
 ## 📫 Let's Connect!
-- 📧 sandyagowda1406@gmail.com
+- 📧 sandyagowda1406@gmail.com`
+-  https://www.linkedin.com/in/sandya-gowda14/
+-  https://x.com/Sandyagowda14
 - 💬 Open to beginner projects, collabs, and community learning!
 
 ---
