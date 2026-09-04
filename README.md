@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandya!
 
-### 2nd Year Computer Science Engineering Student  
+### 3rd Year Computer Science Engineering Student  
 🐍 Python Developer • ⛓️ Blockchain Enthusiast • 🚀 Tech Explorer
 
 ---
